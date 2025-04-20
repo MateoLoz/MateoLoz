@@ -15,31 +15,31 @@
 --- 
 ### 🧉 Coding 
 
-<img align="left" width="14px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=14"  />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=14"  />
 
-<img  width="14px" src="https://raw.githubusercontent.com/github/explore/8144ae7e9ec2274bdb8f76bdbdb6e6509538c7a8/topics/css/css.png?size=14">
+<img  width="26px" src="https://raw.githubusercontent.com/github/explore/8144ae7e9ec2274bdb8f76bdbdb6e6509538c7a8/topics/css/css.png?size=14">
 
-<img  width="14px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=14">
+<img  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=14">
 
-<img  width="14px" src="https://github.com/tailwindlabs.png?size=14">
+<img  width="26px" src="https://github.com/tailwindlabs.png?size=14">
 
-<img  width="14px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=14">
+<img  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=14">
 
-<img  width="14px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png?size=14">
+<img  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png?size=14">
 
-<img  width="14px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png?size=14">
+<img  width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png?size=14">
 
-<img  width="14px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png?size=14">
+<img  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png?size=14">
 
-<img  width="14px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=14">
+<img  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=14">
 
-<img  width="14px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png?size=14">
+<img  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png?size=14">
 
-<img  width="14px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png?size=14">
+<img  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png?size=14">
 
 ---
 ### 🎵 Now Listening
-[<img src="https://spotify-now-listening-tan.vercel.app/" width="350px">]
+<img src="https://spotify-now-listening-tan.vercel.app/" width="350px">
 
 ---
 
