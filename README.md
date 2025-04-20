@@ -39,7 +39,7 @@
 
 ---
 ## 🎵 Now Listening
-<img src="https://spotify-now-listening.onrender.com/" width="350px">
+[<img src="https://camo.githubusercontent.com/06a4f14fe80ac7011ee93784578b1bb2f22bf14adbf486dcde125b28ad1620dd/68747470733a2f2f73706f746966792d6e6f772d6c697374656e696e672e6f6e72656e6465722e636f6d2f" width="350px">]
 
 ---
 
