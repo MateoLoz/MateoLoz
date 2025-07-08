@@ -33,6 +33,14 @@
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=14">
 
+<img align="left" width="26px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true&size=14">
+
+<img align="left" width="26px" src="https://github.com/github/explore/blob/main/topics/supabase/supabase.png?raw=true&size=14">
+
+<img align="left" width="26px" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png?raw=true&size=14">
+
+<img align="left" width="26px" src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4?raw=true&size=14">
+
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png?size=14">
 
 <img  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png?size=14">
