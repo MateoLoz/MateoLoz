@@ -1,19 +1,29 @@
-# Hi Mateo Lozano here!  👋
+# 👨‍💻 Mateo Lozano — Full Stack Developer | Node.js & React Typescript Enthusiast
 
 
 [![Static Badge](https://img.shields.io/badge/follow%20me%20%20-%23000?style=flat-square&logo=instagram&logoSize=auto&label=Mateoloz_1&link=https%3A%2F%2Fwww.instagram.com%2Fmateoloz_1%2F)](https://www.instagram.com/mateoloz_1/)
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWluNWxtNDJsbTMyazhydWV6NWhva2VkZmh5em9nbjJkbzY5ajNlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohc10GA6j4XrLWzZK/giphy.gif">
 
-## 🧉🧉 web developer 
+## 🚀 TL;DR
 
-
-- 🔭 I’m currently working on mi final proyect in the uni, an event managment App!
-- 🌱 I’m currently learning more about react-redux and typescript!
-- ⚡ Fun fact: I love to lift weights, watch sports such as football, box Rally, and i really enjoy running
+- 🧠 Full Stack Developer especialized in javascript node.js react and PostgreSql.
+- 🔨 passionate for cleand and scalable software architecture.
+- 🌱 Always learning: now going deeper in  tRPC and microservices.
 
 --- 
-## 🧉 Coding 
+## Portfolio 
+
+- https://MateoLoz.cloud
+
+---
+## 🧉🧉 About Me
+
+- Love sports especially motorsports (Rally F1 WEC)
+- Currently finishing mi final proyect to graduate 
+- very passionate about economics and finance
+
+--- 
+## 🛠️ Technologies and Tools 
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=14"  />
 
@@ -41,6 +51,13 @@
 
 <img align="left" width="26px" src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4?raw=true&size=14">
 
+<img align="left" width="26px" src="https://avatars.githubusercontent.com/u/25822731?s=48&v=4?raw=true&size=14" alt="prettier">
+
+<img align="left" width="26px" src="https://avatars.githubusercontent.com/u/6019716?s=48&v=4?raw=true&size=14" alt="Eslint">
+
+<img align="left" width="26px" src="https://avatars.githubusercontent.com/u/78011399?s=48&v=4?raw=true&size=14" alt="Trpc">
+
+
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png?size=14">
 
 <img  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png?size=14">
@@ -51,8 +68,8 @@
 
 ---
 
-## 📧 Contact
+## 📫 Contact me 
 
-- 📧 Gmail mateobinance1@gmail.com
-- #️⃣ instagram Mateoloz_1
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/mateoloz)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mateobinance1@gmail.com)
 
