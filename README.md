@@ -1,4 +1,4 @@
-# 👨‍💻 Mateo Lozano — Full Stack Developer | Node.js & React TypeScript
+# 👨‍💻 Mateo Agustin Lozano Lozano — Full Stack Developer | Node.js & React TypeScript
 
 [![Static Badge](https://img.shields.io/badge/follow%20me%20-%23000?style=flat-square&logo=instagram&label=Mateoloz_1&link=https%3A%2F%2Fwww.instagram.com%2Fmateoloz_1%2F)](https://www.instagram.com/mateoloz_1/)
 [![Static Badge](https://img.shields.io/badge/Visit%20My%20Portfolio-%2300C6FF?style=flat-square&logo=vercel&logoColor=white&labelColor=black&link=https://www.mateoloz.cloud)](https://www.mateoloz.cloud)
