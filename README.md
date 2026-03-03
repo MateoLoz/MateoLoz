@@ -1,8 +1,7 @@
 # Mateo Agustin Lozano Lozano
 
-
-## Software Developer · QA Engineer
-
+### Software Developer · QA Engineer
+-- 
 ## Stack
 
 ### Backend
